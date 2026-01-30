@@ -2,8 +2,8 @@
 
 🎓 **Data Scientist | Data Analyst | Professeur de Mathématiques**  
 📍 Brazzaville, République du Congo  
-📧 [Email](mailto:seraphngoyi36@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/séraph-jocelyn-n-29b43a189)  
+📧 [Email]  
+🔗 [LinkedIn] (https://linkedin.com/in/séraph-jocelyn-n-29b43a189)  
 💻 [GitHub](https://github.com/n-jocelyn)
 
 ---
