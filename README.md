@@ -2,7 +2,7 @@
 
 🎓 **Data Scientist | Data Analyst | Professeur de Mathématiques**  
 📍 Brazzaville, République du Congo  
-📧 [Email] seraphngoyi36@gmail.com  
+📧 [Email] (seraphngoyi36@gmail.com) 
 💻 [GitHub](https://github.com/n-jocelyn)
 
 ---
